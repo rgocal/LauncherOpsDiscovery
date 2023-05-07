@@ -1,0 +1,5 @@
+{
+"Launchers":[
+{"resPackage":"app.lawnchair","resLabel":"Lawnchair","resDesc":"app.lawnchair","resLink":"https:\/\/play.google.com\/store\/apps\/details?id=app.lawnchair"}
+]
+}
