@@ -1,0 +1,20 @@
+{
+  "latestVersion": "301",
+  "latestVersionCode": "300",
+  "url": "https://drive.google.com/file/d/11QnlPv71B1iMYklJGK7UjY_RENO2ftvu/view?usp=drive_link",
+  "releaseNotes": [
+    "- Removed Google Play Restraints",
+    "- All Discussion @Telegram",
+    "- License Removal, all users are now approved to use Launcher Ops FREE",
+    "- Visual improvements to the Segment Bar Summary view",
+    "- Removed the extensions tab",
+    "- Implemented OTA Updater",
+    "- Implemented Adept Quick Tile features",
+    "- Implemented Deprecated Quick Switch Activity for Tasker and other plugins to activate",
+    "- Visual improvements to the Horizontal Slider data view",
+    "- Updated all implementations and deprecated Google requirements",
+    "- Updated SDK requirments and target SDK (Nothing to worry about)",
+    "- Fixed Google Play Publisher info tab to load information before displaying it",
+    "- Publisher info changelog copies to clipboard on click"
+  ]
+}
