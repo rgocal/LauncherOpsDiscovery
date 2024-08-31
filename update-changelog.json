@@ -1,6 +1,6 @@
 {
-  "latestVersion": "60.00.2",
-  "latestVersionCode": "302",
+  "latestVersion": "60.00.3",
+  "latestVersionCode": "303",
   "url": "https://drive.google.com/file/d/11QnlPv71B1iMYklJGK7UjY_RENO2ftvu/view?usp=drive_link",
   "releaseNotes": [
     "- Removed Google Play Restraints",
@@ -15,6 +15,8 @@
     "- Updated all implementations and deprecated Google requirements",
     "- Updated SDK requirments and target SDK (Nothing to worry about)",
     "- Fixed Google Play Publisher info tab to load information before displaying it",
+    "- Patched said OTA Updater (Would constantly say user had an update)",
+    "- Made reset launcher activity exported for tasker like apps",
     "- Publisher info changelog copies to clipboard on click"
   ]
 }
