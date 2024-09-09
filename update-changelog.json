@@ -1,8 +1,11 @@
 {
-  "latestVersion": "60.00.3",
-  "latestVersionCode": "303",
+  "latestVersion": "60.00.5",
+  "latestVersionCode": "305",
   "url": "https://drive.google.com/file/d/11QnlPv71B1iMYklJGK7UjY_RENO2ftvu/view?usp=drive_link",
   "releaseNotes": [
+    "- Fixed an issue that prevented Quick Tile feature from functioning properly (Shout out to telegram channel for disocovery)",
+    "- Added a new Deepsight Tile, Tile to inspect currently equipped Launcher",
+    "- Fixed an internal error caused by package changes",
     "- Removed Google Play Restraints",
     "- All Discussion @Telegram",
     "- License Removal, all users are now approved to use Launcher Ops FREE",
