@@ -1,25 +1,11 @@
 {
-  "latestVersion": "60.00.5",
-  "latestVersionCode": "305",
+  "latestVersion": "60.00.6",
+  "latestVersionCode": "306",
   "url": "https://drive.google.com/file/d/11QnlPv71B1iMYklJGK7UjY_RENO2ftvu/view?usp=drive_link",
   "releaseNotes": [
-    "- Fixed an issue that prevented Quick Tile feature from functioning properly (Shout out to telegram channel for disocovery)",
-    "- Added a new Deepsight Tile, Tile to inspect currently equipped Launcher",
-    "- Fixed an internal error caused by package changes",
-    "- Removed Google Play Restraints",
-    "- All Discussion @Telegram",
-    "- License Removal, all users are now approved to use Launcher Ops FREE",
-    "- Visual improvements to the Segment Bar Summary view",
-    "- Removed the extensions tab",
-    "- Implemented OTA Updater",
-    "- Implemented Adept Quick Tile features",
-    "- Implemented Deprecated Quick Switch Activity for Tasker and other plugins to activate",
-    "- Visual improvements to the Horizontal Slider data view",
-    "- Updated all implementations and deprecated Google requirements",
-    "- Updated SDK requirments and target SDK (Nothing to worry about)",
-    "- Fixed Google Play Publisher info tab to load information before displaying it",
-    "- Patched said OTA Updater (Would constantly say user had an update)",
-    "- Made reset launcher activity exported for tasker like apps",
-    "- Publisher info changelog copies to clipboard on click"
+    "- Re added the original Launchers Quick Tile that summons the android default launcher switcher interface",
+    "- Rewrote the Overlay Support tab to be a Touch Providers List",
+    "- Fixes to help detech Quick Switch module when installed with a Magisk user",
+    "- Automatically adds Lawnchair as a Touch Provider if installed"
   ]
 }
