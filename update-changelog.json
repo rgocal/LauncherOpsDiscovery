@@ -1,11 +1,12 @@
 {
-  "latestVersion": "60.00.6",
-  "latestVersionCode": "306",
+  "latestVersion": "60.00.7",
+  "latestVersionCode": "307",
   "url": "https://drive.google.com/file/d/11QnlPv71B1iMYklJGK7UjY_RENO2ftvu/view?usp=drive_link",
   "releaseNotes": [
     "- Re added the original Launchers Quick Tile that summons the android default launcher switcher interface",
     "- Rewrote the Overlay Support tab to be a Touch Providers List",
     "- Fixes to help detech Quick Switch module when installed with a Magisk user",
+    "- Updated donation Link",
     "- Automatically adds Lawnchair as a Touch Provider if installed"
   ]
 }
